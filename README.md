@@ -60,7 +60,7 @@
 
 ---
 
-<h2>📫 Connect with me</h2>
+<h2>📫 Connect with me !</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/TON_LINKEDIN">LinkedIn</a>
